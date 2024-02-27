@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Button, Form, FormControl, NavLink, Navbar, NavbarBrand, NavbarCollapse, NavbarToggle, Nav, Container } from 'react-bootstrap';
-import logo from './logo192.png';
+import logo from './logo_boo.png';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom'
 
 import Home from '../Pages/Home'
