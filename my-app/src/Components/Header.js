@@ -25,7 +25,7 @@ class Header extends Component {
 
               />
               {/* {""} */}
-              BooKris
+              <span>BooKris</span> 
             </NavbarBrand>
 
             <NavbarToggle aria-controls='responsive-navbar-nav'/>
